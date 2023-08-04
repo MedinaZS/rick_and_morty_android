@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RickAndMortyAndroid" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/teal_500</item>
+    </style>
+
+    <style name="Theme.RickAndMortyAndroid" parent="Base.Theme.RickAndMortyAndroid" />
+</resources>

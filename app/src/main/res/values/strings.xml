@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rick and Morty Android</string>
+    <string name="app_name_short">Rick and Morty</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rick_y_morty">Rick y Morty</string>
+    <string name="personajes">Personajes</string>
+    <string name="ubicaciones">Ubicaciones</string>
+    <string name="episodios">Episodios</string>
+</resources>
